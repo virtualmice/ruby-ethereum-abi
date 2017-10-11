@@ -1,4 +1,4 @@
-# -*- encoding : ascii-8bit -*-
+# Had some trouble with encoding (from ASCII-8BIT to UTF-8) 象形字
 
 $:.unshift File.expand_path('../../lib', __FILE__)
 

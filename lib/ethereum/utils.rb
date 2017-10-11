@@ -1,4 +1,4 @@
-# -*- encoding : ascii-8bit -*-
+# Had some trouble with encoding (from ASCII-8BIT to UTF-8) 象形字
 
 # Stolen from https://github.com/cryptape/ruby-ethereum/blob/master/lib/ethereum/utils.rb
 
@@ -218,7 +218,7 @@ module Ethereum
     def child_dao_list
       source = '0x4a574510c7014e4ae985403536074abe582adfc8'
 
-      main = [ 
+      main = [
         '0xbb9bc244d798123fde783fcc1c72d3bb8c189413', # TheDAO
         '0x807640a13483f8ac783c557fcdf27be11ea4ac7a'  # TheDAO extrabalance
       ]

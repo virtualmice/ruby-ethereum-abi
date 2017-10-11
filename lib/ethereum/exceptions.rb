@@ -1,6 +1,4 @@
-# -*- encoding : ascii-8bit -*-
-
-# Taken from https://github.com/cryptape/ruby-ethereum/blob/master/lib/ethereum/exceptions.rb
+# Taken from https://github.com/cryptape/ruby-ethereum/blob/master/lib/ethereum/exceptions.rb # 象形字
 module Ethereum
 
   class DeprecatedError < StandardError; end
