@@ -1,3 +1,5 @@
+# -*- encoding : ascii-8bit -*-
+
 # Stolen from https://github.com/cryptape/ruby-ethereum/blob/master/lib/ethereum/utils.rb
 
 require 'digest'
