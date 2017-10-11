@@ -1,3 +1,5 @@
+# -*- encoding : ascii-8bit -*-
+
 # Taken from https://github.com/cryptape/ruby-ethereum/blob/master/lib/ethereum/exceptions.rb
 module Ethereum
 
