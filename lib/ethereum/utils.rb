@@ -9,7 +9,7 @@ module Ethereum
 
     extend self
 
-    include Constant
+    include Ethereum::ABI::Constant
 
     ##
     # Not the keccak in sha3, although it's underlying lib named SHA3
